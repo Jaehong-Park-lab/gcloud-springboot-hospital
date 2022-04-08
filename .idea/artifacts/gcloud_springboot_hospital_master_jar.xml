@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gcloud-springboot-hospital-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gcloud_springboot_hospital_master_jar</output-path>
+    <root id="archive" name="gcloud-springboot-hospital-master.jar">
+      <element id="module-output" name="gcloud-springboot-hospital-master" />
+    </root>
+  </artifact>
+</component>
